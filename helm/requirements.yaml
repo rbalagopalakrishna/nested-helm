@@ -1,0 +1,5 @@
+dependencies:
+  - name: mysql
+    repo: https://github.com/rbalagopalakrishna/nested/tree/master/nested-helm/nested/charts
+  - name: telegraf
+    repo: https://github.com/rbalagopalakrishna/nested/tree/master/nested-helm/nested/charts
