@@ -1,0 +1,3 @@
+dependencies:
+  - name: helm-toolkit
+    repository: https://opendev.org/openstack/openstack-helm-infra.git
