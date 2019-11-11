@@ -1,3 +1,5 @@
 dependencies:
   - name: helm-toolkit
     repository: https://opendev.org/openstack/openstack-helm-infra.git
+  - name: mysql
+    repository: https://github.com/rbalagopalakrishna/nested.git

@@ -17,7 +17,7 @@ data:
   source:
     type: git
     location: https://github.com/rbalagopalakrishna/nested-helm.git
-    subpath: helm
+    subpath: nested-helm/nested
 ---
 schema: armada/ChartGroup/v1
 metadata:
